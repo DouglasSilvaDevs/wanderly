@@ -1,0 +1,17 @@
+Fotografias criadas com a ferramenta integrada de geração de imagens.
+Arquivos finais: dist/assets/santorini-hero.png, alpes.png, bali.png, capadocia.png e estrada.png.
+
+santorini-hero
+Use case: photorealistic-natural. Asset type: full bleed travel landing page hero background. Create a high resolution widescreen 16:9 cinematic editorial travel photograph of Oia, Santorini, Greece at a magnificent amber orange sunset. Aegean sea left, white buildings and recognizable blue church domes climbing the cliff on the right, dark rocky cliff foreground, a woman seen from behind in a cream summer dress and a natural straw sunhat at the LOWER RIGHT edge admiring the sunset. Expansive rich burnt orange clouded sky, low sun above the sea at center right. Leftmost 45 percent is dark unobstructed blue plum sea and shadowy sky for white website text. Rightmost 55 percent holds the village and traveler. Elevated camera view, realistic timeless travel editorial photography, warm copper highlights, golden hour with deep charcoal shadow, fine details, no text, no logos, no borders, no collage, no website interface.
+
+alpes
+Use case: photorealistic-natural. Asset type: landscape travel journal image. One beautiful cinematic high resolution 4:3 editorial travel photograph of a turquoise Alpine lake among jagged Swiss mountain peaks, late afternoon sun, rich mountains, green forest, a small solitary traveler seen from behind sitting on a rocky ledge at lower right admiring the water. A peaceful atmosphere with warm muted earth tones and soft golden highlights. Authentic photographic natural detail. Full bleed, no writing, no logo, no borders, no collage.
+
+bali
+Use case: photorealistic-natural. Asset type: landscape travel journal image. One cinematic high resolution 4:3 editorial travel photograph of traditional split gate temple architecture in Bali Indonesia at sunrise, intricately carved dark stone pillars, lush tropical trees, subtle golden mist, warm amber light and lush olive greens. Beautiful wide symmetrical scene from a travel magazine. Crisp natural detail, moody warm film colors. Full bleed, no text, no logo, no borders, no collage.
+
+capadocia
+Use case: photorealistic-natural. Asset type: landscape travel journal image. One cinematic high resolution 4:3 editorial travel photograph of Cappadocia Turkey, several hot air balloons floating above spectacular fairy chimney rocks and valleys at sunrise, a beautiful large striped amber balloon in upper right and distant smaller balloons, golden apricot sky, sunlit ochre stone, distant horizon and naturally textured landscape. Warm travel film aesthetic, fine realistic photographic detail. Full bleed, no text, no logo, no borders, no collage.
+
+estrada
+Use case: photorealistic-natural. Asset type: wide travel website planning section background. A cinematic high resolution very wide landscape editorial photograph of a winding coastal road at sunset with a small vintage cream camper van driving away near the lower right corner, sea and a luminous amber golden sunset on the right, rocky hills rising on the far right. The left half has only dark plum sea and darkened rocks, usable as negative space for white website text. Moody charcoal shadows, copper orange sky, golden light. No text, no logo, no people visible, no borders, no collage.
